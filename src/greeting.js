@@ -9,3 +9,5 @@ function shout(name) {
 }
 
 module.exports = { greet, shout }
+
+// Wave 1: shout() checked by test.js.
